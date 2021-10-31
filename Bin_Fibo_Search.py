@@ -30,7 +30,6 @@ def Bin_Search():
             return "Roll no is Present...!"
     return "Roll no is not Present :("
 
-
 def Fibo():
     size = len(arr1)
     offset = -1
